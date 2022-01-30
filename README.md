@@ -126,7 +126,7 @@ While THS math, reading, and overall performance drops when 9th graders data is 
 
 ## Summary of Results
 
-#### 4 Key Chsnges from dropping THS 9th Graders' Scores
+#### 4 Key Changes from dropping THS 9th Graders' Scores
 
 *  Overall passing percentage for the entire school district dropped after removing THS 9th grade scores, which shows that THS 9th graders scored above average overall when considering the entire school district
 * Ovrall passing percentage for THS dropped after removing THS 9th grade scores, which shows that THS 9th graders scored above average overall compared to other grade levels at THS
